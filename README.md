@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kendall Guzman</h1>
+<h1 align="center">Hi 👋, I'm Esteban Bogantes Quesada</h1>
 <h3 align="center">Software Engineering Student | Full-Stack Developer | Building Personal Projects</h3>
 
 <p align="center">
@@ -14,30 +14,29 @@
 
 - 🎓 Software Engineering student at **National Technical University** (Costa Rica)
 - 🌱 Currently learning **C#, TypeScript, CSS, and .NET Framework**
-- 🚀 Currently building **[binloop](https://binloopcr.com/)**
+- 🚀 Currently building **[chemastyle](https://chema-style.vercel.app/)**
 - 🔐 Interested in Software and Web Development
-- 📷 Hobby Photographer
 - 💬 Ask me about full-stack development, .NET, and web projects
 
 ---
 
 ### 🚀 Current Project
 
-<a href="https://binloopcr.com/">
-  <img align="left" src="https://img.shields.io/badge/binloopcr-Visit%20Site-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="binloopcr" />
+<a href="https://chema-style.vercel.app/">
+  <img align="left" src="https://img.shields.io/badge/chemastyle-Visit%20Site-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" alt="chemastyle" />
 </a>
 
 <br clear="left" />
 
-🔗 **binloopcr** — [https://binloopcr.com/](https://binloopcr.com/)
+🔗 **chemastyle** — [https://chema-style.vercel.app/](https://chema-style.vercel.app/)
 
 ---
 
 ### 📫 Contact
 
 <p align="left">
-  <a href="mailto:kendalltoto@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kendalltoto%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  <a href="mailto:estebanbq07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-estebanbq07%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
 </p>
 
